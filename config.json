@@ -1,0 +1,7 @@
+{
+    "SafeMode": true,
+    "LogChanges": true,
+    "RequireElevation": true,
+    "Version": "3.0.0",
+    "Author": "morre"
+}
